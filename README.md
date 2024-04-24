@@ -1,4 +1,4 @@
-# NestJS CRUD App
+# CRUD NestJs
 
 This is a simple CRUD (Create, Read, Update, Delete) application built using NestJS.
 

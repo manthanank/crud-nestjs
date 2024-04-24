@@ -7,13 +7,13 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Nes
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/manthanank/nestjs-crud-app.git
+   git clone https://github.com/manthanank/crud-nestjs.git
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd nestjs-crud-app
+   cd crud-nestjs
    npm install
    ```
 
